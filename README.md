@@ -8,7 +8,7 @@
 
 ## 📸 Dashboard Preview
 
-![Screenshots/Dashboard.png](https://github.com/udaykumar195/Excel-Ecommerce-Sales-Dashboard/blob/0966b1fa49098c21876d704f266bd6671ed21c08/Screenshots/Dashboard.png)
+![Screenshots/Dashboard.png](https://github.com/udaykumar195/Excel-Ecommerce-Sales-Dashboard/blob/2cf67a3e19a77c4d6ca07d52e41849e06cea060f/Screenshots/Dashboard.png)
 
 ---
 
