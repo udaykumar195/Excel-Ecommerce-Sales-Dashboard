@@ -8,7 +8,7 @@
 
 ## 📸 Dashboard Preview
 
-![E-Commerce Sales Dashboard](screenshots/dashboard.png)
+![Screenshots/Dashboard.png](https://github.com/udaykumar195/Excel-Ecommerce-Sales-Dashboard/blob/0966b1fa49098c21876d704f266bd6671ed21c08/Screenshots/Dashboard.png)
 
 ---
 
@@ -64,16 +64,6 @@ The workbook includes:
 - Interactive dashboard filters
 - Consistent financial and date formatting
 
-### Key Calculations
-
-**Revenue**
-
-`Quantity × Unit Price × (1 − Discount)`
-
-**Profit Margin**
-
-`Profit ÷ Total Revenue`
-
 ---
 
 ## 📁 Workbook Structure
@@ -112,26 +102,31 @@ Data Preparation · Business Analysis · Revenue Analysis · Profitability Analy
 ```text
 ├── E-Commerce-Sales-Dashboard.xlsx
 ├── README.md
-└── screenshots/
+└── Screenshots/
     └── dashboard.png
 ```
 
 ---
 
-## 🚀 Possible Next Steps
+## 🛠 Tools & Skills
 
-- Add deeper product-level analysis
-- Add year-over-year growth metrics
-- Add additional profitability KPIs
-- Automate data refresh for recurring reports
+* Microsoft Excel
+* Data Cleaning
+* Excel Formulas
+* PivotTables
+* Pivot Charts
+* KPI Analysis
+* Data Visualization
+* Dashboard Design
+* Business Analysis
 
 ---
 
-## 👤 Author
+## 👨‍💻 Author
 
-**Uday Paswan**
+**Uday Kumar**
 
-Data Analytics Portfolio Project  
-**Microsoft Excel | Data Analysis | Business Intelligence**
-"# Excel-Ecommerce-Sales-Dashboard" 
+LinkedIn: www.linkedin.com/in/uday-kumar-b2382b34a
+
+---
 "# Excel-Ecommerce-Sales-Dashboard" 
